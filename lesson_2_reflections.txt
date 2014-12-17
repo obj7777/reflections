@@ -1,0 +1,11 @@
+
+-What happens when you initialize a repository? Why do you need to do it?
+
+git init creates a .git directory with meta data. You need to do it to start keep track of changes with commit.
+
+-How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+Staging area is a temporary area to see changes before committing them. Its value is it allows you to review files before making the committ.
+
+
+
