@@ -5,7 +5,12 @@ git init creates a .git directory with meta data. You need to do it to start kee
 
 -How is the staging area different from the working directory and the repository? What value do you think it offers?
 
-Staging area is a temporary area to see changes before committing them. Its value is it allows you to review files before making the committ.
+Staging area is a temporary area to see changes before committing them. Its value is it allows you to review files before making the commit.
+
+-How can you use the staging area to make sure you have one commit per logical change?
+
+I can add one file to the staging area to be committed at time. I can also see the files in the staging area to make sure I'm only committing the files I want.
+
 
 
 
