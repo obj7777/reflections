@@ -15,4 +15,8 @@ I can add one file to the staging area to be committed at time. I can also see t
 
 Branched are helpful when experimenting with new ideas that I may not want to add to the master branch.
 
+-How do the diagrams help you visualize the branch structure?
+
+I can see the layout of branches and commits.
+
 
