@@ -19,4 +19,8 @@ Branched are helpful when experimenting with new ideas that I may not want to ad
 
 I can see the layout of branches and commits.
 
+-What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+Changes from one branch are applied to the other branch. The diagram is set up to show it was a separate branch at one point.
+
 
