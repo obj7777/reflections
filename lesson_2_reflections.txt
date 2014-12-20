@@ -23,4 +23,9 @@ I can see the layout of branches and commits.
 
 Changes from one branch are applied to the other branch. The diagram is set up to show it was a separate branch at one point.
 
+-What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Pros - Don't have to do all the merging yourself.
+Con - Doesn't always know what to keep or delete.
+
 
