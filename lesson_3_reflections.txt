@@ -10,3 +10,7 @@ You might not want to accept changes others have made just yet.
 
 Fork is copy of a repository made on GitHub. Clone is a copy of a repository. Branch is a copy made inside a repository. I would use a branch for 
 making changes and a fork or clone for making changes to a repository I don't have permission to change.
+
+-What is the benefit of having a copy of the last known state of the remote stored locally?
+
+You may not have access to the remote repository when you want to access its contents.
