@@ -6,3 +6,7 @@ When you work with other people or want your changes available for others.
 
 You might not want to accept changes others have made just yet.
 
+-Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Fork is copy of a repository made on GitHub. Clone is a copy of a repository. Branch is a copy made inside a repository. I would use a branch for 
+making changes and a fork or clone for making changes to a repository I don't have permission to change.
