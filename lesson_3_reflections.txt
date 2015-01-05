@@ -14,3 +14,8 @@ making changes and a fork or clone for making changes to a repository I don't ha
 -What is the benefit of having a copy of the last known state of the remote stored locally?
 
 You may not have access to the remote repository when you want to access its contents.
+
+-How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+If not other version control software, I would have to collaborate by email. It would be harder keeping files and updates organized.
+Learning curve would be easier since no one has to learn how to use git or github.
