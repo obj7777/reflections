@@ -19,3 +19,7 @@ You may not have access to the remote repository when you want to access its con
 
 If not other version control software, I would have to collaborate by email. It would be harder keeping files and updates organized.
 Learning curve would be easier since no one has to learn how to use git or github.
+
+-When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+When you want to test a new feature that you may not want to add to the master. Using a separate branch allows you to save the changes for later, but you may have to merge it later.
